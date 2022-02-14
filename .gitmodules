@@ -1,0 +1,22 @@
+[submodule "sources/meta-alb"]
+	path = sources/meta-alb
+	url = https://source.codeaurora.org/external/autobsps32/meta-alb
+	branch = release/bsp30.0-3.2
+[submodule "sources/meta-freescale"]
+	path = sources/meta-freescale
+	url = https://git.yoctoproject.org/git/meta-freescale
+[submodule "sources/meta-linaro"]
+	path = sources/meta-linaro
+	url = https://git.linaro.org/openembedded/meta-linaro
+[submodule "sources/meta-security"]
+	path = sources/meta-security
+	url = https://git.yoctoproject.org/git/meta-security
+[submodule "sources/meta-openembedded/meta-python2"]
+	path = sources/meta-openembedded/meta-python2
+	url = https://git.openembedded.org/meta-python2
+[submodule "sources/meta-virtualization"]
+	path = sources/meta-virtualization
+	url = https://git.yoctoproject.org/git/meta-virtualization
+[submodule "sources/poky"]
+	path = sources/poky
+	url = https://git.yoctoproject.org/git/poky
