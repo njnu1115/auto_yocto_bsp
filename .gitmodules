@@ -1,0 +1,21 @@
+[submodule "sources/meta-openembedded"]
+	path = sources/meta-openembedded
+	url = https://git.openembedded.org/meta-openembedded
+[submodule "sources/meta-python2"]
+	path = sources/meta-python2
+	url = https://git.openembedded.org/meta-python2
+[submodule "sources/meta-freescale"]
+	path = sources/meta-freescale
+	url = https://git.yoctoproject.org/git/meta-freescale
+[submodule "sources/meta-linaro"]
+	path = sources/meta-linaro
+	url = https://git.linaro.org/openembedded/meta-linaro
+[submodule "sources/meta-security"]
+	path = sources/meta-security
+	url = https://git.yoctoproject.org/git/meta-security
+[submodule "sources/meta-virtualization"]
+	path = sources/meta-virtualization
+	url = https://git.yoctoproject.org/git/meta-virtualization
+[submodule "sources/poky"]
+	path = sources/poky
+	url = https://git.yoctoproject.org/git/poky
